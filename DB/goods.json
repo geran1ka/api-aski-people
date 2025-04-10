@@ -1,0 +1,3625 @@
+[
+  {
+    "id": 100000,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100000.jpg",
+      "/img/100000-1.jpg",
+      "/img/100000-2.jpg",
+      "/img/100000-3.jpg"
+    ],
+    "price": "24 965 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      }
+    ]
+  },
+  {
+    "id": 100001,
+    "title": "Крепления Union",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "43 926 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100002,
+    "title": "Atomic Maverick",
+    "category": "Лыжи",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "75 231 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100003,
+    "title": "Head Supershape",
+    "category": "Лыжи",
+    "img": [
+      "/img/100003.jpg",
+      "/img/100003-1.jpg",
+      "/img/100003-2.jpg",
+      "/img/100003-3.jpg"
+    ],
+    "price": "38 004 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100004,
+    "title": "Крепления Union",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100004.jpg",
+      "/img/100004-1.jpg",
+      "/img/100004-2.jpg",
+      "/img/100004-3.jpg"
+    ],
+    "price": "78 590 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      }
+    ]
+  },
+  {
+    "id": 100005,
+    "title": "Чехол Dakine",
+    "category": "Аксессуары",
+    "img": ["/img/100005.jpg", "/img/100005-1.jpg"],
+    "price": "82 952 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100006,
+    "title": "Носки Thermo",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "25 447 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": 100007,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "53 889 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100008,
+    "title": "Крепления Union",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "62 527 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100009,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "59 454 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100010,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100010.jpg",
+      "/img/100010-1.jpg",
+      "/img/100010-2.jpg",
+      "/img/100010-3.jpg"
+    ],
+    "price": "22 854 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100011,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100011.jpg",
+      "/img/100011-1.jpg",
+      "/img/100011-2.jpg",
+      "/img/100011-3.jpg"
+    ],
+    "price": "83 576 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100012,
+    "title": "Шлем Giro",
+    "category": "Экипировка",
+    "img": [
+      "/img/100012.jpg",
+      "/img/100012-1.jpg",
+      "/img/100012-2.jpg",
+      "/img/100012-3.jpg"
+    ],
+    "price": "47 950 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100013,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100013.jpg",
+      "/img/100013-1.jpg",
+      "/img/100013-2.jpg",
+      "/img/100013-3.jpg"
+    ],
+    "price": "13 399 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100014,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg",
+      "/img/100014-3.jpg"
+    ],
+    "price": "42 565 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100015,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100015.jpg",
+      "/img/100015-1.jpg",
+      "/img/100015-2.jpg",
+      "/img/100015-3.jpg"
+    ],
+    "price": "30 085 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100016,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100000.jpg",
+      "/img/100000-1.jpg",
+      "/img/100000-2.jpg",
+      "/img/100000-3.jpg"
+    ],
+    "price": "67 953 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100017,
+    "title": "Носки Thermo",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "88 300 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100018,
+    "title": "Носки Thermo",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "77 154 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100019,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100003.jpg",
+      "/img/100003-1.jpg",
+      "/img/100003-2.jpg",
+      "/img/100003-3.jpg"
+    ],
+    "price": "45 393 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      }
+    ]
+  },
+  {
+    "id": 100020,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100004.jpg",
+      "/img/100004-1.jpg",
+      "/img/100004-2.jpg",
+      "/img/100004-3.jpg"
+    ],
+    "price": "6 021 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100021,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100005.jpg",
+      "/img/100005-1.jpg",
+      "/img/100005-2.jpg",
+      "/img/100005-3.jpg"
+    ],
+    "price": "36 840 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": 100022,
+    "title": "Atomic Maverick",
+    "category": "Лыжи",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "34 426 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100023,
+    "title": "Lib Tech T.Rice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "42 289 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100024,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "20 882 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100025,
+    "title": "Lib Tech T.Rice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "81 423 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100026,
+    "title": "Чехол Dakine",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100010.jpg",
+      "/img/100010-1.jpg",
+      "/img/100010-2.jpg",
+      "/img/100010-3.jpg"
+    ],
+    "price": "37 838 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100027,
+    "title": "Atomic Maverick",
+    "category": "Лыжи",
+    "img": [
+      "/img/100011.jpg",
+      "/img/100011-1.jpg",
+      "/img/100011-2.jpg",
+      "/img/100011-3.jpg"
+    ],
+    "price": "91 613 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100028,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100012.jpg",
+      "/img/100012-1.jpg",
+      "/img/100012-2.jpg",
+      "/img/100012-3.jpg"
+    ],
+    "price": "42 392 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      }
+    ]
+  },
+  {
+    "id": 100029,
+    "title": "Head Supershape",
+    "category": "Лыжи",
+    "img": [
+      "/img/100013.jpg",
+      "/img/100013-1.jpg",
+      "/img/100013-2.jpg",
+      "/img/100013-3.jpg"
+    ],
+    "price": "79 954 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100030,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg",
+      "/img/100014-3.jpg"
+    ],
+    "price": "33 568 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100031,
+    "title": "Чехол Dakine",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100015.jpg",
+      "/img/100015-1.jpg",
+      "/img/100015-2.jpg",
+      "/img/100015-3.jpg"
+    ],
+    "price": "48 497 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100032,
+    "title": "Шлем Giro",
+    "category": "Экипировка",
+    "img": [
+      "/img/100000.jpg",
+      "/img/100000-1.jpg",
+      "/img/100000-2.jpg",
+      "/img/100000-3.jpg"
+    ],
+    "price": "88 681 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100033,
+    "title": "Head Supershape",
+    "category": "Лыжи",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "32 716 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100034,
+    "title": "Чехол Dakine",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "11 493 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      }
+    ]
+  },
+  {
+    "id": 100035,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100005.jpg",
+      "/img/100005-1.jpg",
+      "/img/100005-2.jpg",
+      "/img/100005-3.jpg"
+    ],
+    "price": "17 850 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100036,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "51 457 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100037,
+    "title": "Чехол Dakine",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "75 100 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": 100038,
+    "title": "Lib Tech T.Rice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "57 141 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100039,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "6 624 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100040,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100010.jpg",
+      "/img/100010-1.jpg",
+      "/img/100010-2.jpg",
+      "/img/100010-3.jpg"
+    ],
+    "price": "92 863 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100041,
+    "title": "Перчатки Level",
+    "category": "Экипировка",
+    "img": [
+      "/img/100011.jpg",
+      "/img/100011-1.jpg",
+      "/img/100011-2.jpg",
+      "/img/100011-3.jpg"
+    ],
+    "price": "60 380 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100042,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100012.jpg",
+      "/img/100012-1.jpg",
+      "/img/100012-2.jpg",
+      "/img/100012-3.jpg"
+    ],
+    "price": "21 280 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": 100043,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100013.jpg",
+      "/img/100013-1.jpg",
+      "/img/100013-2.jpg",
+      "/img/100013-3.jpg"
+    ],
+    "price": "94 440 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100044,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg",
+      "/img/100014-3.jpg"
+    ],
+    "price": "30 583 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100045,
+    "title": "Atomic Maverick",
+    "category": "Лыжи",
+    "img": [
+      "/img/100015.jpg",
+      "/img/100015-1.jpg",
+      "/img/100015-2.jpg",
+      "/img/100015-3.jpg"
+    ],
+    "price": "24 117 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100046,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100000.jpg",
+      "/img/100000-1.jpg",
+      "/img/100000-2.jpg",
+      "/img/100000-3.jpg"
+    ],
+    "price": "37 294 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100047,
+    "title": "Head Supershape",
+    "category": "Лыжи",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "23 289 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100048,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "10 295 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100049,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100003.jpg",
+      "/img/100003-1.jpg",
+      "/img/100003-2.jpg",
+      "/img/100003-3.jpg"
+    ],
+    "price": "14 406 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100050,
+    "title": "Перчатки Level",
+    "category": "Экипировка",
+    "img": [
+      "/img/100004.jpg",
+      "/img/100004-1.jpg",
+      "/img/100004-2.jpg",
+      "/img/100004-3.jpg"
+    ],
+    "price": "86 699 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": 100051,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "27 409 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      }
+    ]
+  },
+  {
+    "id": 100052,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "4 586 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100053,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100003.jpg",
+      "/img/100003-1.jpg",
+      "/img/100003-2.jpg",
+      "/img/100003-3.jpg"
+    ],
+    "price": "13 461 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100054,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100004.jpg",
+      "/img/100004-1.jpg",
+      "/img/100004-2.jpg",
+      "/img/100004-3.jpg"
+    ],
+    "price": "41 903 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100055,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100005.jpg",
+      "/img/100005-1.jpg",
+      "/img/100005-2.jpg",
+      "/img/100005-3.jpg"
+    ],
+    "price": "57 347 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100056,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "54 201 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100057,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "79 442 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100058,
+    "title": "Перчатки Level",
+    "category": "Экипировка",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "13 383 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100059,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "48 761 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100060,
+    "title": "Носки Thermo",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100010.jpg",
+      "/img/100010-1.jpg",
+      "/img/100010-2.jpg",
+      "/img/100010-3.jpg"
+    ],
+    "price": "83 806 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      }
+    ]
+  },
+  {
+    "id": 100061,
+    "title": "Куртка Burton",
+    "category": "Экипировка",
+    "img": [
+      "/img/100011.jpg",
+      "/img/100011-1.jpg",
+      "/img/100011-2.jpg",
+      "/img/100011-3.jpg"
+    ],
+    "price": "64 475 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100062,
+    "title": "Перчатки Level",
+    "category": "Экипировка",
+    "img": [
+      "/img/100012.jpg",
+      "/img/100012-1.jpg",
+      "/img/100012-2.jpg",
+      "/img/100012-3.jpg"
+    ],
+    "price": "86 836 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      }
+    ]
+  },
+  {
+    "id": 100063,
+    "title": "Шлем Giro",
+    "category": "Экипировка",
+    "img": [
+      "/img/100013.jpg",
+      "/img/100013-1.jpg",
+      "/img/100013-2.jpg",
+      "/img/100013-3.jpg"
+    ],
+    "price": "93 780 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      }
+    ]
+  },
+  {
+    "id": 100064,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg",
+      "/img/100014-3.jpg"
+    ],
+    "price": "91 947 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100065,
+    "title": "Крепления Union",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100015.jpg",
+      "/img/100015-1.jpg",
+      "/img/100015-2.jpg",
+      "/img/100015-3.jpg"
+    ],
+    "price": "76 154 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100066,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "49 565 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100067,
+    "title": "Head Supershape",
+    "category": "Лыжи",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "30 381 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100068,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "26 025 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100069,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "41 162 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100070,
+    "title": "Nitro Team",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100000.jpg",
+      "/img/100000-1.jpg",
+      "/img/100000-2.jpg",
+      "/img/100000-3.jpg"
+    ],
+    "price": "39 483 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  },
+  {
+    "id": 100071,
+    "title": "Перчатки Level",
+    "category": "Экипировка",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "78 056 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100072,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "62 972 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100073,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100003.jpg",
+      "/img/100003-1.jpg",
+      "/img/100003-2.jpg",
+      "/img/100003-3.jpg"
+    ],
+    "price": "40 088 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100074,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100004.jpg",
+      "/img/100004-1.jpg",
+      "/img/100004-2.jpg",
+      "/img/100004-3.jpg"
+    ],
+    "price": "46 795 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100075,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100005.jpg",
+      "/img/100005-1.jpg",
+      "/img/100005-2.jpg",
+      "/img/100005-3.jpg"
+    ],
+    "price": "51 516 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100076,
+    "title": "Чехол Dakine",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "58 935 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      }
+    ]
+  },
+  {
+    "id": 100077,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "9 492 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100078,
+    "title": "Маска Oakley",
+    "category": "Экипировка",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "11 105 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      }
+    ]
+  },
+  {
+    "id": 100079,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "23 182 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100080,
+    "title": "Atomic Maverick",
+    "category": "Лыжи",
+    "img": [
+      "/img/100010.jpg",
+      "/img/100010-1.jpg",
+      "/img/100010-2.jpg",
+      "/img/100010-3.jpg"
+    ],
+    "price": "21 799 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100081,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100011.jpg",
+      "/img/100011-1.jpg",
+      "/img/100011-2.jpg",
+      "/img/100011-3.jpg"
+    ],
+    "price": "35 371 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100082,
+    "title": "Крепления Union",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100012.jpg",
+      "/img/100012-1.jpg",
+      "/img/100012-2.jpg",
+      "/img/100012-3.jpg"
+    ],
+    "price": "42 158 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100083,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100013.jpg",
+      "/img/100013-1.jpg",
+      "/img/100013-2.jpg",
+      "/img/100013-3.jpg"
+    ],
+    "price": "64 859 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100084,
+    "title": "Head Supershape",
+    "category": "Лыжи",
+    "img": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg",
+      "/img/100014-3.jpg"
+    ],
+    "price": "93 236 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100085,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100005.jpg",
+      "/img/100005-1.jpg",
+      "/img/100005-2.jpg",
+      "/img/100005-3.jpg"
+    ],
+    "price": "92 459 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100086,
+    "title": "Nitro Team",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100011.jpg",
+      "/img/100011-1.jpg",
+      "/img/100011-2.jpg",
+      "/img/100011-3.jpg"
+    ],
+    "price": "65 801 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Level"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100087,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100012.jpg",
+      "/img/100012-1.jpg",
+      "/img/100012-2.jpg",
+      "/img/100012-3.jpg"
+    ],
+    "price": "23 664 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100088,
+    "title": "Burton Custom",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100013.jpg",
+      "/img/100013-1.jpg",
+      "/img/100013-2.jpg",
+      "/img/100013-3.jpg"
+    ],
+    "price": "29 504 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Salomon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100089,
+    "title": "Куртка Burton",
+    "category": "Экипировка",
+    "img": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg",
+      "/img/100014-3.jpg"
+    ],
+    "price": "13 839 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100090,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100015.jpg",
+      "/img/100015-1.jpg",
+      "/img/100015-2.jpg",
+      "/img/100015-3.jpg"
+    ],
+    "price": "47 362 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Oakley"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100091,
+    "title": "Перчатки Level",
+    "category": "Экипировка",
+    "img": [
+      "/img/100001.jpg",
+      "/img/100001-1.jpg",
+      "/img/100001-2.jpg",
+      "/img/100001-3.jpg"
+    ],
+    "price": "66 729 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      }
+    ]
+  },
+  {
+    "id": 100092,
+    "title": "Шлем Giro",
+    "category": "Экипировка",
+    "img": [
+      "/img/100002.jpg",
+      "/img/100002-1.jpg",
+      "/img/100002-2.jpg",
+      "/img/100002-3.jpg"
+    ],
+    "price": "92 174 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      }
+    ]
+  },
+  {
+    "id": 100093,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100003.jpg",
+      "/img/100003-1.jpg",
+      "/img/100003-2.jpg",
+      "/img/100003-3.jpg"
+    ],
+    "price": "31 654 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "90 кг"
+      }
+    ]
+  },
+  {
+    "id": 100094,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100004.jpg",
+      "/img/100004-1.jpg",
+      "/img/100004-2.jpg",
+      "/img/100004-3.jpg"
+    ],
+    "price": "64 383 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ]
+  },
+  {
+    "id": 100095,
+    "title": "GNU Riders Choice",
+    "category": "Сноуборды",
+    "img": [
+      "/img/100015.jpg",
+      "/img/100015-1.jpg",
+      "/img/100015-2.jpg",
+      "/img/100015-3.jpg"
+    ],
+    "price": "75 100 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Norveg"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ]
+  },
+  {
+    "id": 100096,
+    "title": "BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+      "/img/100006.jpg",
+      "/img/100006-1.jpg",
+      "/img/100006-2.jpg",
+      "/img/100006-3.jpg"
+    ],
+    "price": "15 947 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme Snow"
+      },
+      {
+        "field": "Производитель",
+        "value": "Atomic"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100097,
+    "title": "Термобелье Norveg",
+    "category": "Аксессуары",
+    "img": [
+      "/img/100007.jpg",
+      "/img/100007-1.jpg",
+      "/img/100007-2.jpg",
+      "/img/100007-3.jpg"
+    ],
+    "price": "48 868 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Mountain Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Burton"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      }
+    ]
+  },
+  {
+    "id": 100098,
+    "title": "Atomic Maverick",
+    "category": "Лыжи",
+    "img": [
+      "/img/100008.jpg",
+      "/img/100008-1.jpg",
+      "/img/100008-2.jpg",
+      "/img/100008-3.jpg"
+    ],
+    "price": "59 727 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Giro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зелёный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100099,
+    "title": "Salomon QST",
+    "category": "Лыжи",
+    "img": [
+      "/img/100009.jpg",
+      "/img/100009-1.jpg",
+      "/img/100009-2.jpg",
+      "/img/100009-3.jpg"
+    ],
+    "price": "4 201 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Urban Line"
+      },
+      {
+        "field": "Производитель",
+        "value": "Head"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 год"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ]
+  }
+]

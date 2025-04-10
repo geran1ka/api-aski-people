@@ -1,0 +1,4678 @@
+[
+  {
+    "id": 100000,
+    "title": "Лыжи BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": [
+        "/img/100000.jpg",
+        "/img/100000-1.jpg",
+        "/img/100000-2.jpg",
+        "/img/100000-3.jpg"
+      ],
+    "price": "94 380 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol "
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ]
+  },
+  {
+    "id": 100001,
+    "title": "Лыжи BELLE 73",
+    "category": "Лыжи",
+    "img": [
+        "/img/100001.jpg",
+        "/img/100001-1.jpg",
+        "/img/100001-2.jpg",
+        "/img/100001-3.jpg"
+      ],
+    "price": "47 190 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100002,
+    "title": "Сноуборды PUSH UP",
+    "category": "Сноуборды",
+    "img": [
+        "/img/100002.jpg",
+        "/img/100002-1.jpg",
+        "/img/100002-2.jpg",
+        "/img/100002-3.jpg",
+        "/img/100002-4.jpg",
+        "/img/100002-5.jpg"
+      ],
+    "price": "60 500 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Bataleon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "4 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "110 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100003,
+    "title": "Лыжи FATTY",
+    "category": "Лыжи",
+    "img": [
+        "/img/100003.jpg",
+        "/img/100003-1.jpg",
+        "/img/100003-2.jpg",
+        "/img/100003-3.jpg",
+        "/img/100003-4.jpg",
+        "/img/100003-5.jpg",
+        "/img/100003-6.jpg"
+      ],
+    "price": "38 610 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "K2"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "142 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100004,
+    "title": "Лыжи ELITE 7 XP",
+    "category": "Лыжи",
+    "img":  [
+        "/img/100004.jpg",
+        "/img/100004-1.jpg",
+        "/img/100004-2.jpg",
+        "/img/100004-3.jpg"
+      ],
+    "price": "79 923 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Dynastar"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "133 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100005,
+    "title": "Лыжи M-CROSS 82 XP",
+    "category": "Лыжи",
+    "img": [
+        "/img/100005.jpg",
+        "/img/100005-1.jpg"
+      ],
+    "price": "76 230 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Dynastar "
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зеленый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "145 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100006,
+    "title": "Лыжи TEAM J R",
+    "category": "Лыжи",
+    "img": [
+        "/img/100006.jpg",
+        "/img/100006-1.jpg",
+        "/img/100006-2.jpg",
+        "/img/100006-3.jpg"
+      ],
+    "price": "27 376 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "115 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100007,
+    "title": "Сноуборды BLOW",
+    "category": "Сноуборды",
+    "img": [
+        "/img/100007.jpg",
+        "/img/100007-1.jpg",
+        "/img/100007-2.jpg",
+        "/img/100007-3.jpg",
+        "/img/100007-4.jpg",
+        "/img/100007-5.jpg",
+        "/img/100007-6.jpg"
+      ],
+    "price": "52 030 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Bataleon "
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "117 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100008,
+    "title": "Сноуборд LECTRA",
+    "category": "Сноуборды",
+    "img":  [
+        "/img/100008.jpg",
+        "/img/100008-1.jpg",
+        "/img/100008-2.jpg",
+        "/img/100008-3.jpg"
+      ],
+    "price": "48 400 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nitro "
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Темно-синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "139 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100009,
+    "title": "Лыжи ELITE 5 XP",
+    "category": "Лыжи",
+    "img": [
+        "/img/100009.jpg",
+        "/img/100009-1.jpg",
+        "/img/100009-2.jpg",
+        "/img/100009-3.jpg"
+      ]
+    "price": "69 025 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Dynastar"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Голубой"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "134 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100010,
+    "title": "Лыжи FORZA 20 V-FG",
+    "category": "Лыжи",
+    "img":  [
+        "/img/100010.jpg",
+        "/img/100010-1.jpg",
+        "/img/100010-2.jpg",
+        "/img/100010-3.jpg"
+      ],
+    "price": "48 400 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "101 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100011,
+    "title": "Лыжи ENFORCER 99",
+    "category": "Лыжи",
+    "img": [
+        "/img/100011.jpg",
+        "/img/100011-1.jpg",
+        "/img/100011-2.jpg"
+      ],
+    "price": "84 700 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "117 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100012,
+    "title": "Лыжи ENDER 106 TI PLUS",
+    "category": "Лыжи",
+    "img": [
+        "/img/100012.jpg",
+        "/img/100012-1.jpg",
+        "/img/100012-2.jpg",
+        "/img/100012-3.jpg"
+      ],
+
+    "price": "94 380 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "92 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100013,
+    "title": "Лыжи ENFORCER 94",
+    "category": "Лыжи",
+    "img": [
+        "/img/100013.jpg",
+        "/img/100013-1.jpg",
+        "/img/100013-2.jpg"
+      ],
+    "price": "94 380 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "140 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100014,
+    "title": "Лыжи SANTA ANA 102",
+    "category": "Лыжи",
+    "img": {
+    "src": "/img/100014.jpg",
+    "main": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg"
+    ],
+    "thumb": [
+      "/img/100014.jpg",
+      "/img/100014-1.jpg",
+      "/img/100014-2.jpg"
+    ]
+  },
+    "price": "84 700 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100015,
+    "title": "Лыжи BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100015.jpg",
+      "main": [
+        "/img/100015.jpg",
+        "/img/100015-1.jpg",
+        "/img/100015-2.jpg",
+        "/img/100015-3.jpg"
+      ],
+      "thumb": [
+        "/img/100015.jpg",
+        "/img/100015-1.jpg",
+        "/img/100015-2.jpg",
+        "/img/100015-3.jpg"
+      ]
+    },
+    "price": "94 380 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Желтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "131 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100016,
+    "title": "Сноуборды Pro406",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100016/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100016/main.jpg",
+        "/img/products/snowboards/snowboards-100016/1.jpg",
+        "/img/products/snowboards/snowboards-100016/2.jpg",
+        "/img/products/snowboards/snowboards-100016/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100016/thumb.jpg",
+        "/img/products/snowboards/snowboards-100016/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100016/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100016/thumb3.jpg"
+      ]
+    },
+    "price": "17645 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "134 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100017,
+    "title": "Экипировка X443",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100017/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100017/main.jpg",
+        "/img/products/equipment/equipment-100017/1.jpg",
+        "/img/products/equipment/equipment-100017/2.jpg",
+        "/img/products/equipment/equipment-100017/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100017/thumb.jpg",
+        "/img/products/equipment/equipment-100017/thumb1.jpg",
+        "/img/products/equipment/equipment-100017/thumb2.jpg",
+        "/img/products/equipment/equipment-100017/thumb3.jpg"
+      ]
+    },
+    "price": "7235 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "126 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100018,
+    "title": "Аксессуары Pro391",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100018/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100018/main.jpg",
+        "/img/products/accessories/accessories-100018/1.jpg",
+        "/img/products/accessories/accessories-100018/2.jpg",
+        "/img/products/accessories/accessories-100018/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100018/thumb.jpg",
+        "/img/products/accessories/accessories-100018/thumb1.jpg",
+        "/img/products/accessories/accessories-100018/thumb2.jpg",
+        "/img/products/accessories/accessories-100018/thumb3.jpg"
+      ]
+    },
+    "price": "19685 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "120 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100019,
+    "title": "Аксессуары Pro119",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100019/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100019/main.jpg",
+        "/img/products/accessories/accessories-100019/1.jpg",
+        "/img/products/accessories/accessories-100019/2.jpg",
+        "/img/products/accessories/accessories-100019/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100019/thumb.jpg",
+        "/img/products/accessories/accessories-100019/thumb1.jpg",
+        "/img/products/accessories/accessories-100019/thumb2.jpg",
+        "/img/products/accessories/accessories-100019/thumb3.jpg"
+      ]
+    },
+    "price": "21875 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "129 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100020,
+    "title": "Лыжи Pro735",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100020/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100020/main.jpg",
+        "/img/products/skis/skis-100020/1.jpg",
+        "/img/products/skis/skis-100020/2.jpg",
+        "/img/products/skis/skis-100020/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100020/thumb.jpg",
+        "/img/products/skis/skis-100020/thumb1.jpg",
+        "/img/products/skis/skis-100020/thumb2.jpg",
+        "/img/products/skis/skis-100020/thumb3.jpg"
+      ]
+    },
+    "price": "10765 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "143 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100021,
+    "title": "Лыжи X659",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100021/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100021/main.jpg",
+        "/img/products/skis/skis-100021/1.jpg",
+        "/img/products/skis/skis-100021/2.jpg",
+        "/img/products/skis/skis-100021/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100021/thumb.jpg",
+        "/img/products/skis/skis-100021/thumb1.jpg",
+        "/img/products/skis/skis-100021/thumb2.jpg",
+        "/img/products/skis/skis-100021/thumb3.jpg"
+      ]
+    },
+    "price": "9658 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "147 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100022,
+    "title": "Аксессуары Pro978",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100022/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100022/main.jpg",
+        "/img/products/accessories/accessories-100022/1.jpg",
+        "/img/products/accessories/accessories-100022/2.jpg",
+        "/img/products/accessories/accessories-100022/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100022/thumb.jpg",
+        "/img/products/accessories/accessories-100022/thumb1.jpg",
+        "/img/products/accessories/accessories-100022/thumb2.jpg",
+        "/img/products/accessories/accessories-100022/thumb3.jpg"
+      ]
+    },
+    "price": "22859 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "116 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100023,
+    "title": "Лыжи Max584",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100023/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100023/main.jpg",
+        "/img/products/skis/skis-100023/1.jpg",
+        "/img/products/skis/skis-100023/2.jpg",
+        "/img/products/skis/skis-100023/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100023/thumb.jpg",
+        "/img/products/skis/skis-100023/thumb1.jpg",
+        "/img/products/skis/skis-100023/thumb2.jpg",
+        "/img/products/skis/skis-100023/thumb3.jpg"
+      ]
+    },
+    "price": "21846 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "103 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100024,
+    "title": "Лыжи X345",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100024/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100024/main.jpg",
+        "/img/products/skis/skis-100024/1.jpg",
+        "/img/products/skis/skis-100024/2.jpg",
+        "/img/products/skis/skis-100024/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100024/thumb.jpg",
+        "/img/products/skis/skis-100024/thumb1.jpg",
+        "/img/products/skis/skis-100024/thumb2.jpg",
+        "/img/products/skis/skis-100024/thumb3.jpg"
+      ]
+    },
+    "price": "19373 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100025,
+    "title": "Аксессуары Max479",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100025/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100025/main.jpg",
+        "/img/products/accessories/accessories-100025/1.jpg",
+        "/img/products/accessories/accessories-100025/2.jpg",
+        "/img/products/accessories/accessories-100025/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100025/thumb.jpg",
+        "/img/products/accessories/accessories-100025/thumb1.jpg",
+        "/img/products/accessories/accessories-100025/thumb2.jpg",
+        "/img/products/accessories/accessories-100025/thumb3.jpg"
+      ]
+    },
+    "price": "9754 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "141 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100026,
+    "title": "Экипировка Pro374",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100026/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100026/main.jpg",
+        "/img/products/equipment/equipment-100026/1.jpg",
+        "/img/products/equipment/equipment-100026/2.jpg",
+        "/img/products/equipment/equipment-100026/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100026/thumb.jpg",
+        "/img/products/equipment/equipment-100026/thumb1.jpg",
+        "/img/products/equipment/equipment-100026/thumb2.jpg",
+        "/img/products/equipment/equipment-100026/thumb3.jpg"
+      ]
+    },
+    "price": "23528 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "134 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100027,
+    "title": "Лыжи Pro451",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100027/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100027/main.jpg",
+        "/img/products/skis/skis-100027/1.jpg",
+        "/img/products/skis/skis-100027/2.jpg",
+        "/img/products/skis/skis-100027/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100027/thumb.jpg",
+        "/img/products/skis/skis-100027/thumb1.jpg",
+        "/img/products/skis/skis-100027/thumb2.jpg",
+        "/img/products/skis/skis-100027/thumb3.jpg"
+      ]
+    },
+    "price": "14807 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "111 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100028,
+    "title": "Лыжи X955",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100028/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100028/main.jpg",
+        "/img/products/skis/skis-100028/1.jpg",
+        "/img/products/skis/skis-100028/2.jpg",
+        "/img/products/skis/skis-100028/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100028/thumb.jpg",
+        "/img/products/skis/skis-100028/thumb1.jpg",
+        "/img/products/skis/skis-100028/thumb2.jpg",
+        "/img/products/skis/skis-100028/thumb3.jpg"
+      ]
+    },
+    "price": "6432 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "146 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100029,
+    "title": "Экипировка Elite198",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100029/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100029/main.jpg",
+        "/img/products/equipment/equipment-100029/1.jpg",
+        "/img/products/equipment/equipment-100029/2.jpg",
+        "/img/products/equipment/equipment-100029/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100029/thumb.jpg",
+        "/img/products/equipment/equipment-100029/thumb1.jpg",
+        "/img/products/equipment/equipment-100029/thumb2.jpg",
+        "/img/products/equipment/equipment-100029/thumb3.jpg"
+      ]
+    },
+    "price": "12169 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "132 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100030,
+    "title": "Сноуборды X370",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100030/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100030/main.jpg",
+        "/img/products/snowboards/snowboards-100030/1.jpg",
+        "/img/products/snowboards/snowboards-100030/2.jpg",
+        "/img/products/snowboards/snowboards-100030/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100030/thumb.jpg",
+        "/img/products/snowboards/snowboards-100030/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100030/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100030/thumb3.jpg"
+      ]
+    },
+    "price": "5587 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "4 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "147 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100031,
+    "title": "Лыжи Max684",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100031/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100031/main.jpg",
+        "/img/products/skis/skis-100031/1.jpg",
+        "/img/products/skis/skis-100031/2.jpg",
+        "/img/products/skis/skis-100031/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100031/thumb.jpg",
+        "/img/products/skis/skis-100031/thumb1.jpg",
+        "/img/products/skis/skis-100031/thumb2.jpg",
+        "/img/products/skis/skis-100031/thumb3.jpg"
+      ]
+    },
+    "price": "24589 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "148 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100032,
+    "title": "Аксессуары Max967",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100032/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100032/main.jpg",
+        "/img/products/accessories/accessories-100032/1.jpg",
+        "/img/products/accessories/accessories-100032/2.jpg",
+        "/img/products/accessories/accessories-100032/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100032/thumb.jpg",
+        "/img/products/accessories/accessories-100032/thumb1.jpg",
+        "/img/products/accessories/accessories-100032/thumb2.jpg",
+        "/img/products/accessories/accessories-100032/thumb3.jpg"
+      ]
+    },
+    "price": "17138 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "96 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100033,
+    "title": "Экипировка Pro843",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100033/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100033/main.jpg",
+        "/img/products/equipment/equipment-100033/1.jpg",
+        "/img/products/equipment/equipment-100033/2.jpg",
+        "/img/products/equipment/equipment-100033/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100033/thumb.jpg",
+        "/img/products/equipment/equipment-100033/thumb1.jpg",
+        "/img/products/equipment/equipment-100033/thumb2.jpg",
+        "/img/products/equipment/equipment-100033/thumb3.jpg"
+      ]
+    },
+    "price": "13335 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "123 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100034,
+    "title": "Лыжи Elite744",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100034/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100034/main.jpg",
+        "/img/products/skis/skis-100034/1.jpg",
+        "/img/products/skis/skis-100034/2.jpg",
+        "/img/products/skis/skis-100034/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100034/thumb.jpg",
+        "/img/products/skis/skis-100034/thumb1.jpg",
+        "/img/products/skis/skis-100034/thumb2.jpg",
+        "/img/products/skis/skis-100034/thumb3.jpg"
+      ]
+    },
+    "price": "8009 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "135 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100035,
+    "title": "Лыжи X476",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100035/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100035/main.jpg",
+        "/img/products/skis/skis-100035/1.jpg",
+        "/img/products/skis/skis-100035/2.jpg",
+        "/img/products/skis/skis-100035/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100035/thumb.jpg",
+        "/img/products/skis/skis-100035/thumb1.jpg",
+        "/img/products/skis/skis-100035/thumb2.jpg",
+        "/img/products/skis/skis-100035/thumb3.jpg"
+      ]
+    },
+    "price": "24722 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "140 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100036,
+    "title": "Экипировка Max246",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100036/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100036/main.jpg",
+        "/img/products/equipment/equipment-100036/1.jpg",
+        "/img/products/equipment/equipment-100036/2.jpg",
+        "/img/products/equipment/equipment-100036/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100036/thumb.jpg",
+        "/img/products/equipment/equipment-100036/thumb1.jpg",
+        "/img/products/equipment/equipment-100036/thumb2.jpg",
+        "/img/products/equipment/equipment-100036/thumb3.jpg"
+      ]
+    },
+    "price": "9885 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "123 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100037,
+    "title": "Сноуборды Max219",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100037/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100037/main.jpg",
+        "/img/products/snowboards/snowboards-100037/1.jpg",
+        "/img/products/snowboards/snowboards-100037/2.jpg",
+        "/img/products/snowboards/snowboards-100037/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100037/thumb.jpg",
+        "/img/products/snowboards/snowboards-100037/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100037/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100037/thumb3.jpg"
+      ]
+    },
+    "price": "17217 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "146 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100038,
+    "title": "Аксессуары Max285",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100038/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100038/main.jpg",
+        "/img/products/accessories/accessories-100038/1.jpg",
+        "/img/products/accessories/accessories-100038/2.jpg",
+        "/img/products/accessories/accessories-100038/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100038/thumb.jpg",
+        "/img/products/accessories/accessories-100038/thumb1.jpg",
+        "/img/products/accessories/accessories-100038/thumb2.jpg",
+        "/img/products/accessories/accessories-100038/thumb3.jpg"
+      ]
+    },
+    "price": "7005 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "137 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100039,
+    "title": "Сноуборды Pro292",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100039/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100039/main.jpg",
+        "/img/products/snowboards/snowboards-100039/1.jpg",
+        "/img/products/snowboards/snowboards-100039/2.jpg",
+        "/img/products/snowboards/snowboards-100039/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100039/thumb.jpg",
+        "/img/products/snowboards/snowboards-100039/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100039/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100039/thumb3.jpg"
+      ]
+    },
+    "price": "21967 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "109 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100040,
+    "title": "Сноуборды Elite831",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100040/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100040/main.jpg",
+        "/img/products/snowboards/snowboards-100040/1.jpg",
+        "/img/products/snowboards/snowboards-100040/2.jpg",
+        "/img/products/snowboards/snowboards-100040/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100040/thumb.jpg",
+        "/img/products/snowboards/snowboards-100040/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100040/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100040/thumb3.jpg"
+      ]
+    },
+    "price": "16318 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "102 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100041,
+    "title": "Экипировка Elite158",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100041/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100041/main.jpg",
+        "/img/products/equipment/equipment-100041/1.jpg",
+        "/img/products/equipment/equipment-100041/2.jpg",
+        "/img/products/equipment/equipment-100041/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100041/thumb.jpg",
+        "/img/products/equipment/equipment-100041/thumb1.jpg",
+        "/img/products/equipment/equipment-100041/thumb2.jpg",
+        "/img/products/equipment/equipment-100041/thumb3.jpg"
+      ]
+    },
+    "price": "16398 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "109 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100042,
+    "title": "Лыжи Max652",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100042/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100042/main.jpg",
+        "/img/products/skis/skis-100042/1.jpg",
+        "/img/products/skis/skis-100042/2.jpg",
+        "/img/products/skis/skis-100042/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100042/thumb.jpg",
+        "/img/products/skis/skis-100042/thumb1.jpg",
+        "/img/products/skis/skis-100042/thumb2.jpg",
+        "/img/products/skis/skis-100042/thumb3.jpg"
+      ]
+    },
+    "price": "12438 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "145 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100043,
+    "title": "Экипировка Pro892",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100043/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100043/main.jpg",
+        "/img/products/equipment/equipment-100043/1.jpg",
+        "/img/products/equipment/equipment-100043/2.jpg",
+        "/img/products/equipment/equipment-100043/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100043/thumb.jpg",
+        "/img/products/equipment/equipment-100043/thumb1.jpg",
+        "/img/products/equipment/equipment-100043/thumb2.jpg",
+        "/img/products/equipment/equipment-100043/thumb3.jpg"
+      ]
+    },
+    "price": "9751 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "125 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100044,
+    "title": "Лыжи X748",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100044/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100044/main.jpg",
+        "/img/products/skis/skis-100044/1.jpg",
+        "/img/products/skis/skis-100044/2.jpg",
+        "/img/products/skis/skis-100044/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100044/thumb.jpg",
+        "/img/products/skis/skis-100044/thumb1.jpg",
+        "/img/products/skis/skis-100044/thumb2.jpg",
+        "/img/products/skis/skis-100044/thumb3.jpg"
+      ]
+    },
+    "price": "12306 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "99 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100045,
+    "title": "Экипировка Pro662",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100045/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100045/main.jpg",
+        "/img/products/equipment/equipment-100045/1.jpg",
+        "/img/products/equipment/equipment-100045/2.jpg",
+        "/img/products/equipment/equipment-100045/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100045/thumb.jpg",
+        "/img/products/equipment/equipment-100045/thumb1.jpg",
+        "/img/products/equipment/equipment-100045/thumb2.jpg",
+        "/img/products/equipment/equipment-100045/thumb3.jpg"
+      ]
+    },
+    "price": "6211 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "128 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100046,
+    "title": "Экипировка Elite305",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100046/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100046/main.jpg",
+        "/img/products/equipment/equipment-100046/1.jpg",
+        "/img/products/equipment/equipment-100046/2.jpg",
+        "/img/products/equipment/equipment-100046/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100046/thumb.jpg",
+        "/img/products/equipment/equipment-100046/thumb1.jpg",
+        "/img/products/equipment/equipment-100046/thumb2.jpg",
+        "/img/products/equipment/equipment-100046/thumb3.jpg"
+      ]
+    },
+    "price": "12138 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "148 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100047,
+    "title": "Сноуборды Pro761",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100047/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100047/main.jpg",
+        "/img/products/snowboards/snowboards-100047/1.jpg",
+        "/img/products/snowboards/snowboards-100047/2.jpg",
+        "/img/products/snowboards/snowboards-100047/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100047/thumb.jpg",
+        "/img/products/snowboards/snowboards-100047/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100047/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100047/thumb3.jpg"
+      ]
+    },
+    "price": "21537 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "134 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100048,
+    "title": "Сноуборды Elite401",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100048/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100048/main.jpg",
+        "/img/products/snowboards/snowboards-100048/1.jpg",
+        "/img/products/snowboards/snowboards-100048/2.jpg",
+        "/img/products/snowboards/snowboards-100048/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100048/thumb.jpg",
+        "/img/products/snowboards/snowboards-100048/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100048/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100048/thumb3.jpg"
+      ]
+    },
+    "price": "24383 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "149 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100049,
+    "title": "Лыжи Elite311",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100049/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100049/main.jpg",
+        "/img/products/skis/skis-100049/1.jpg",
+        "/img/products/skis/skis-100049/2.jpg",
+        "/img/products/skis/skis-100049/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100049/thumb.jpg",
+        "/img/products/skis/skis-100049/thumb1.jpg",
+        "/img/products/skis/skis-100049/thumb2.jpg",
+        "/img/products/skis/skis-100049/thumb3.jpg"
+      ]
+    },
+    "price": "24805 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "131 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100050,
+    "title": "Лыжи X439",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100050/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100050/main.jpg",
+        "/img/products/skis/skis-100050/1.jpg",
+        "/img/products/skis/skis-100050/2.jpg",
+        "/img/products/skis/skis-100050/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100050/thumb.jpg",
+        "/img/products/skis/skis-100050/thumb1.jpg",
+        "/img/products/skis/skis-100050/thumb2.jpg",
+        "/img/products/skis/skis-100050/thumb3.jpg"
+      ]
+    },
+    "price": "24466 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "142 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100051,
+    "title": "Аксессуары Pro349",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100051/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100051/main.jpg",
+        "/img/products/accessories/accessories-100051/1.jpg",
+        "/img/products/accessories/accessories-100051/2.jpg",
+        "/img/products/accessories/accessories-100051/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100051/thumb.jpg",
+        "/img/products/accessories/accessories-100051/thumb1.jpg",
+        "/img/products/accessories/accessories-100051/thumb2.jpg",
+        "/img/products/accessories/accessories-100051/thumb3.jpg"
+      ]
+    },
+    "price": "11202 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "139 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100052,
+    "title": "Экипировка Elite727",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100052/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100052/main.jpg",
+        "/img/products/equipment/equipment-100052/1.jpg",
+        "/img/products/equipment/equipment-100052/2.jpg",
+        "/img/products/equipment/equipment-100052/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100052/thumb.jpg",
+        "/img/products/equipment/equipment-100052/thumb1.jpg",
+        "/img/products/equipment/equipment-100052/thumb2.jpg",
+        "/img/products/equipment/equipment-100052/thumb3.jpg"
+      ]
+    },
+    "price": "11556 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "141 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100053,
+    "title": "Экипировка Max287",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100053/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100053/main.jpg",
+        "/img/products/equipment/equipment-100053/1.jpg",
+        "/img/products/equipment/equipment-100053/2.jpg",
+        "/img/products/equipment/equipment-100053/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100053/thumb.jpg",
+        "/img/products/equipment/equipment-100053/thumb1.jpg",
+        "/img/products/equipment/equipment-100053/thumb2.jpg",
+        "/img/products/equipment/equipment-100053/thumb3.jpg"
+      ]
+    },
+    "price": "8935 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "122 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100054,
+    "title": "Экипировка Elite116",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100054/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100054/main.jpg",
+        "/img/products/equipment/equipment-100054/1.jpg",
+        "/img/products/equipment/equipment-100054/2.jpg",
+        "/img/products/equipment/equipment-100054/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100054/thumb.jpg",
+        "/img/products/equipment/equipment-100054/thumb1.jpg",
+        "/img/products/equipment/equipment-100054/thumb2.jpg",
+        "/img/products/equipment/equipment-100054/thumb3.jpg"
+      ]
+    },
+    "price": "8070 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "114 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100055,
+    "title": "Сноуборды Max206",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100055/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100055/main.jpg",
+        "/img/products/snowboards/snowboards-100055/1.jpg",
+        "/img/products/snowboards/snowboards-100055/2.jpg",
+        "/img/products/snowboards/snowboards-100055/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100055/thumb.jpg",
+        "/img/products/snowboards/snowboards-100055/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100055/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100055/thumb3.jpg"
+      ]
+    },
+    "price": "19960 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "137 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100056,
+    "title": "Экипировка Pro878",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100056/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100056/main.jpg",
+        "/img/products/equipment/equipment-100056/1.jpg",
+        "/img/products/equipment/equipment-100056/2.jpg",
+        "/img/products/equipment/equipment-100056/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100056/thumb.jpg",
+        "/img/products/equipment/equipment-100056/thumb1.jpg",
+        "/img/products/equipment/equipment-100056/thumb2.jpg",
+        "/img/products/equipment/equipment-100056/thumb3.jpg"
+      ]
+    },
+    "price": "16617 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "121 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100057,
+    "title": "Сноуборды Max868",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100057/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100057/main.jpg",
+        "/img/products/snowboards/snowboards-100057/1.jpg",
+        "/img/products/snowboards/snowboards-100057/2.jpg",
+        "/img/products/snowboards/snowboards-100057/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100057/thumb.jpg",
+        "/img/products/snowboards/snowboards-100057/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100057/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100057/thumb3.jpg"
+      ]
+    },
+    "price": "16032 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "130 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100058,
+    "title": "Аксессуары Max680",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100058/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100058/main.jpg",
+        "/img/products/accessories/accessories-100058/1.jpg",
+        "/img/products/accessories/accessories-100058/2.jpg",
+        "/img/products/accessories/accessories-100058/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100058/thumb.jpg",
+        "/img/products/accessories/accessories-100058/thumb1.jpg",
+        "/img/products/accessories/accessories-100058/thumb2.jpg",
+        "/img/products/accessories/accessories-100058/thumb3.jpg"
+      ]
+    },
+    "price": "24655 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "140 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100059,
+    "title": "Экипировка Elite898",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100059/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100059/main.jpg",
+        "/img/products/equipment/equipment-100059/1.jpg",
+        "/img/products/equipment/equipment-100059/2.jpg",
+        "/img/products/equipment/equipment-100059/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100059/thumb.jpg",
+        "/img/products/equipment/equipment-100059/thumb1.jpg",
+        "/img/products/equipment/equipment-100059/thumb2.jpg",
+        "/img/products/equipment/equipment-100059/thumb3.jpg"
+      ]
+    },
+    "price": "17191 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100060,
+    "title": "Экипировка Pro816",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100060/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100060/main.jpg",
+        "/img/products/equipment/equipment-100060/1.jpg",
+        "/img/products/equipment/equipment-100060/2.jpg",
+        "/img/products/equipment/equipment-100060/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100060/thumb.jpg",
+        "/img/products/equipment/equipment-100060/thumb1.jpg",
+        "/img/products/equipment/equipment-100060/thumb2.jpg",
+        "/img/products/equipment/equipment-100060/thumb3.jpg"
+      ]
+    },
+    "price": "22811 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "127 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100061,
+    "title": "Лыжи Pro895",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100061/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100061/main.jpg",
+        "/img/products/skis/skis-100061/1.jpg",
+        "/img/products/skis/skis-100061/2.jpg",
+        "/img/products/skis/skis-100061/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100061/thumb.jpg",
+        "/img/products/skis/skis-100061/thumb1.jpg",
+        "/img/products/skis/skis-100061/thumb2.jpg",
+        "/img/products/skis/skis-100061/thumb3.jpg"
+      ]
+    },
+    "price": "3713 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "4 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "117 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100062,
+    "title": "Сноуборды Max128",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100062/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100062/main.jpg",
+        "/img/products/snowboards/snowboards-100062/1.jpg",
+        "/img/products/snowboards/snowboards-100062/2.jpg",
+        "/img/products/snowboards/snowboards-100062/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100062/thumb.jpg",
+        "/img/products/snowboards/snowboards-100062/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100062/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100062/thumb3.jpg"
+      ]
+    },
+    "price": "19129 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "4 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "128 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100063,
+    "title": "Аксессуары Pro302",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100063/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100063/main.jpg",
+        "/img/products/accessories/accessories-100063/1.jpg",
+        "/img/products/accessories/accessories-100063/2.jpg",
+        "/img/products/accessories/accessories-100063/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100063/thumb.jpg",
+        "/img/products/accessories/accessories-100063/thumb1.jpg",
+        "/img/products/accessories/accessories-100063/thumb2.jpg",
+        "/img/products/accessories/accessories-100063/thumb3.jpg"
+      ]
+    },
+    "price": "4509 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "115 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100064,
+    "title": "Сноуборды Max542",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100064/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100064/main.jpg",
+        "/img/products/snowboards/snowboards-100064/1.jpg",
+        "/img/products/snowboards/snowboards-100064/2.jpg",
+        "/img/products/snowboards/snowboards-100064/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100064/thumb.jpg",
+        "/img/products/snowboards/snowboards-100064/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100064/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100064/thumb3.jpg"
+      ]
+    },
+    "price": "5557 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "111 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100065,
+    "title": "Экипировка Max166",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100065/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100065/main.jpg",
+        "/img/products/equipment/equipment-100065/1.jpg",
+        "/img/products/equipment/equipment-100065/2.jpg",
+        "/img/products/equipment/equipment-100065/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100065/thumb.jpg",
+        "/img/products/equipment/equipment-100065/thumb1.jpg",
+        "/img/products/equipment/equipment-100065/thumb2.jpg",
+        "/img/products/equipment/equipment-100065/thumb3.jpg"
+      ]
+    },
+    "price": "12204 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "147 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100066,
+    "title": "Экипировка X553",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100066/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100066/main.jpg",
+        "/img/products/equipment/equipment-100066/1.jpg",
+        "/img/products/equipment/equipment-100066/2.jpg",
+        "/img/products/equipment/equipment-100066/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100066/thumb.jpg",
+        "/img/products/equipment/equipment-100066/thumb1.jpg",
+        "/img/products/equipment/equipment-100066/thumb2.jpg",
+        "/img/products/equipment/equipment-100066/thumb3.jpg"
+      ]
+    },
+    "price": "15472 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "140 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100067,
+    "title": "Аксессуары Elite709",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100067/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100067/main.jpg",
+        "/img/products/accessories/accessories-100067/1.jpg",
+        "/img/products/accessories/accessories-100067/2.jpg",
+        "/img/products/accessories/accessories-100067/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100067/thumb.jpg",
+        "/img/products/accessories/accessories-100067/thumb1.jpg",
+        "/img/products/accessories/accessories-100067/thumb2.jpg",
+        "/img/products/accessories/accessories-100067/thumb3.jpg"
+      ]
+    },
+    "price": "12796 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "103 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100068,
+    "title": "Лыжи Pro699",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100068/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100068/main.jpg",
+        "/img/products/skis/skis-100068/1.jpg",
+        "/img/products/skis/skis-100068/2.jpg",
+        "/img/products/skis/skis-100068/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100068/thumb.jpg",
+        "/img/products/skis/skis-100068/thumb1.jpg",
+        "/img/products/skis/skis-100068/thumb2.jpg",
+        "/img/products/skis/skis-100068/thumb3.jpg"
+      ]
+    },
+    "price": "20471 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "125 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100069,
+    "title": "Экипировка X313",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100069/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100069/main.jpg",
+        "/img/products/equipment/equipment-100069/1.jpg",
+        "/img/products/equipment/equipment-100069/2.jpg",
+        "/img/products/equipment/equipment-100069/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100069/thumb.jpg",
+        "/img/products/equipment/equipment-100069/thumb1.jpg",
+        "/img/products/equipment/equipment-100069/thumb2.jpg",
+        "/img/products/equipment/equipment-100069/thumb3.jpg"
+      ]
+    },
+    "price": "17774 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "141 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100070,
+    "title": "Экипировка Pro128",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100070/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100070/main.jpg",
+        "/img/products/equipment/equipment-100070/1.jpg",
+        "/img/products/equipment/equipment-100070/2.jpg",
+        "/img/products/equipment/equipment-100070/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100070/thumb.jpg",
+        "/img/products/equipment/equipment-100070/thumb1.jpg",
+        "/img/products/equipment/equipment-100070/thumb2.jpg",
+        "/img/products/equipment/equipment-100070/thumb3.jpg"
+      ]
+    },
+    "price": "5310 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "94 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100071,
+    "title": "Лыжи Max748",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100071/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100071/main.jpg",
+        "/img/products/skis/skis-100071/1.jpg",
+        "/img/products/skis/skis-100071/2.jpg",
+        "/img/products/skis/skis-100071/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100071/thumb.jpg",
+        "/img/products/skis/skis-100071/thumb1.jpg",
+        "/img/products/skis/skis-100071/thumb2.jpg",
+        "/img/products/skis/skis-100071/thumb3.jpg"
+      ]
+    },
+    "price": "7906 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "114 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100072,
+    "title": "Экипировка Elite653",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100072/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100072/main.jpg",
+        "/img/products/equipment/equipment-100072/1.jpg",
+        "/img/products/equipment/equipment-100072/2.jpg",
+        "/img/products/equipment/equipment-100072/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100072/thumb.jpg",
+        "/img/products/equipment/equipment-100072/thumb1.jpg",
+        "/img/products/equipment/equipment-100072/thumb2.jpg",
+        "/img/products/equipment/equipment-100072/thumb3.jpg"
+      ]
+    },
+    "price": "7338 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "135 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100073,
+    "title": "Экипировка Max691",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100073/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100073/main.jpg",
+        "/img/products/equipment/equipment-100073/1.jpg",
+        "/img/products/equipment/equipment-100073/2.jpg",
+        "/img/products/equipment/equipment-100073/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100073/thumb.jpg",
+        "/img/products/equipment/equipment-100073/thumb1.jpg",
+        "/img/products/equipment/equipment-100073/thumb2.jpg",
+        "/img/products/equipment/equipment-100073/thumb3.jpg"
+      ]
+    },
+    "price": "20474 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "122 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100074,
+    "title": "Экипировка X758",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100074/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100074/main.jpg",
+        "/img/products/equipment/equipment-100074/1.jpg",
+        "/img/products/equipment/equipment-100074/2.jpg",
+        "/img/products/equipment/equipment-100074/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100074/thumb.jpg",
+        "/img/products/equipment/equipment-100074/thumb1.jpg",
+        "/img/products/equipment/equipment-100074/thumb2.jpg",
+        "/img/products/equipment/equipment-100074/thumb3.jpg"
+      ]
+    },
+    "price": "13373 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "117 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100075,
+    "title": "Экипировка Pro731",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100075/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100075/main.jpg",
+        "/img/products/equipment/equipment-100075/1.jpg",
+        "/img/products/equipment/equipment-100075/2.jpg",
+        "/img/products/equipment/equipment-100075/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100075/thumb.jpg",
+        "/img/products/equipment/equipment-100075/thumb1.jpg",
+        "/img/products/equipment/equipment-100075/thumb2.jpg",
+        "/img/products/equipment/equipment-100075/thumb3.jpg"
+      ]
+    },
+    "price": "18124 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "92 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100076,
+    "title": "Лыжи X768",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100076/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100076/main.jpg",
+        "/img/products/skis/skis-100076/1.jpg",
+        "/img/products/skis/skis-100076/2.jpg",
+        "/img/products/skis/skis-100076/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100076/thumb.jpg",
+        "/img/products/skis/skis-100076/thumb1.jpg",
+        "/img/products/skis/skis-100076/thumb2.jpg",
+        "/img/products/skis/skis-100076/thumb3.jpg"
+      ]
+    },
+    "price": "21079 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "140 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100077,
+    "title": "Сноуборды Elite123",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100077/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100077/main.jpg",
+        "/img/products/snowboards/snowboards-100077/1.jpg",
+        "/img/products/snowboards/snowboards-100077/2.jpg",
+        "/img/products/snowboards/snowboards-100077/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100077/thumb.jpg",
+        "/img/products/snowboards/snowboards-100077/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100077/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100077/thumb3.jpg"
+      ]
+    },
+    "price": "23216 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "149 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100078,
+    "title": "Лыжи X272",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100078/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100078/main.jpg",
+        "/img/products/skis/skis-100078/1.jpg",
+        "/img/products/skis/skis-100078/2.jpg",
+        "/img/products/skis/skis-100078/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100078/thumb.jpg",
+        "/img/products/skis/skis-100078/thumb1.jpg",
+        "/img/products/skis/skis-100078/thumb2.jpg",
+        "/img/products/skis/skis-100078/thumb3.jpg"
+      ]
+    },
+    "price": "4375 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "94 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100079,
+    "title": "Аксессуары Pro835",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100079/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100079/main.jpg",
+        "/img/products/accessories/accessories-100079/1.jpg",
+        "/img/products/accessories/accessories-100079/2.jpg",
+        "/img/products/accessories/accessories-100079/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100079/thumb.jpg",
+        "/img/products/accessories/accessories-100079/thumb1.jpg",
+        "/img/products/accessories/accessories-100079/thumb2.jpg",
+        "/img/products/accessories/accessories-100079/thumb3.jpg"
+      ]
+    },
+    "price": "21755 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "119 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100080,
+    "title": "Аксессуары X801",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100080/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100080/main.jpg",
+        "/img/products/accessories/accessories-100080/1.jpg",
+        "/img/products/accessories/accessories-100080/2.jpg",
+        "/img/products/accessories/accessories-100080/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100080/thumb.jpg",
+        "/img/products/accessories/accessories-100080/thumb1.jpg",
+        "/img/products/accessories/accessories-100080/thumb2.jpg",
+        "/img/products/accessories/accessories-100080/thumb3.jpg"
+      ]
+    },
+    "price": "3976 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "9 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "105 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100081,
+    "title": "Аксессуары Max159",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100081/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100081/main.jpg",
+        "/img/products/accessories/accessories-100081/1.jpg",
+        "/img/products/accessories/accessories-100081/2.jpg",
+        "/img/products/accessories/accessories-100081/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100081/thumb.jpg",
+        "/img/products/accessories/accessories-100081/thumb1.jpg",
+        "/img/products/accessories/accessories-100081/thumb2.jpg",
+        "/img/products/accessories/accessories-100081/thumb3.jpg"
+      ]
+    },
+    "price": "18494 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "127 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100082,
+    "title": "Экипировка Elite208",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100082/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100082/main.jpg",
+        "/img/products/equipment/equipment-100082/1.jpg",
+        "/img/products/equipment/equipment-100082/2.jpg",
+        "/img/products/equipment/equipment-100082/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100082/thumb.jpg",
+        "/img/products/equipment/equipment-100082/thumb1.jpg",
+        "/img/products/equipment/equipment-100082/thumb2.jpg",
+        "/img/products/equipment/equipment-100082/thumb3.jpg"
+      ]
+    },
+    "price": "21795 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "132 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100083,
+    "title": "Аксессуары Pro684",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100083/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100083/main.jpg",
+        "/img/products/accessories/accessories-100083/1.jpg",
+        "/img/products/accessories/accessories-100083/2.jpg",
+        "/img/products/accessories/accessories-100083/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100083/thumb.jpg",
+        "/img/products/accessories/accessories-100083/thumb1.jpg",
+        "/img/products/accessories/accessories-100083/thumb2.jpg",
+        "/img/products/accessories/accessories-100083/thumb3.jpg"
+      ]
+    },
+    "price": "11436 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "149 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100084,
+    "title": "Сноуборды Max176",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100084/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100084/main.jpg",
+        "/img/products/snowboards/snowboards-100084/1.jpg",
+        "/img/products/snowboards/snowboards-100084/2.jpg",
+        "/img/products/snowboards/snowboards-100084/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100084/thumb.jpg",
+        "/img/products/snowboards/snowboards-100084/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100084/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100084/thumb3.jpg"
+      ]
+    },
+    "price": "6979 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "135 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100085,
+    "title": "Экипировка X534",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100085/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100085/main.jpg",
+        "/img/products/equipment/equipment-100085/1.jpg",
+        "/img/products/equipment/equipment-100085/2.jpg",
+        "/img/products/equipment/equipment-100085/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100085/thumb.jpg",
+        "/img/products/equipment/equipment-100085/thumb1.jpg",
+        "/img/products/equipment/equipment-100085/thumb2.jpg",
+        "/img/products/equipment/equipment-100085/thumb3.jpg"
+      ]
+    },
+    "price": "22347 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "97 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100086,
+    "title": "Аксессуары X271",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100086/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100086/main.jpg",
+        "/img/products/accessories/accessories-100086/1.jpg",
+        "/img/products/accessories/accessories-100086/2.jpg",
+        "/img/products/accessories/accessories-100086/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100086/thumb.jpg",
+        "/img/products/accessories/accessories-100086/thumb1.jpg",
+        "/img/products/accessories/accessories-100086/thumb2.jpg",
+        "/img/products/accessories/accessories-100086/thumb3.jpg"
+      ]
+    },
+    "price": "15615 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "93 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100087,
+    "title": "Аксессуары X406",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100087/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100087/main.jpg",
+        "/img/products/accessories/accessories-100087/1.jpg",
+        "/img/products/accessories/accessories-100087/2.jpg",
+        "/img/products/accessories/accessories-100087/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100087/thumb.jpg",
+        "/img/products/accessories/accessories-100087/thumb1.jpg",
+        "/img/products/accessories/accessories-100087/thumb2.jpg",
+        "/img/products/accessories/accessories-100087/thumb3.jpg"
+      ]
+    },
+    "price": "22009 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "132 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100088,
+    "title": "Экипировка X463",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100088/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100088/main.jpg",
+        "/img/products/equipment/equipment-100088/1.jpg",
+        "/img/products/equipment/equipment-100088/2.jpg",
+        "/img/products/equipment/equipment-100088/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100088/thumb.jpg",
+        "/img/products/equipment/equipment-100088/thumb1.jpg",
+        "/img/products/equipment/equipment-100088/thumb2.jpg",
+        "/img/products/equipment/equipment-100088/thumb3.jpg"
+      ]
+    },
+    "price": "13590 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "133 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100089,
+    "title": "Аксессуары Pro499",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100089/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100089/main.jpg",
+        "/img/products/accessories/accessories-100089/1.jpg",
+        "/img/products/accessories/accessories-100089/2.jpg",
+        "/img/products/accessories/accessories-100089/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100089/thumb.jpg",
+        "/img/products/accessories/accessories-100089/thumb1.jpg",
+        "/img/products/accessories/accessories-100089/thumb2.jpg",
+        "/img/products/accessories/accessories-100089/thumb3.jpg"
+      ]
+    },
+    "price": "9513 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "VisionX"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "119 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100090,
+    "title": "Лыжи Pro811",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100090/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100090/main.jpg",
+        "/img/products/skis/skis-100090/1.jpg",
+        "/img/products/skis/skis-100090/2.jpg",
+        "/img/products/skis/skis-100090/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100090/thumb.jpg",
+        "/img/products/skis/skis-100090/thumb1.jpg",
+        "/img/products/skis/skis-100090/thumb2.jpg",
+        "/img/products/skis/skis-100090/thumb3.jpg"
+      ]
+    },
+    "price": "6567 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "NordTrack"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "122 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100091,
+    "title": "Аксессуары Max580",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100091/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100091/main.jpg",
+        "/img/products/accessories/accessories-100091/1.jpg",
+        "/img/products/accessories/accessories-100091/2.jpg",
+        "/img/products/accessories/accessories-100091/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100091/thumb.jpg",
+        "/img/products/accessories/accessories-100091/thumb1.jpg",
+        "/img/products/accessories/accessories-100091/thumb2.jpg",
+        "/img/products/accessories/accessories-100091/thumb3.jpg"
+      ]
+    },
+    "price": "14066 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "129 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100092,
+    "title": "Экипировка Pro460",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100092/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100092/main.jpg",
+        "/img/products/equipment/equipment-100092/1.jpg",
+        "/img/products/equipment/equipment-100092/2.jpg",
+        "/img/products/equipment/equipment-100092/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100092/thumb.jpg",
+        "/img/products/equipment/equipment-100092/thumb1.jpg",
+        "/img/products/equipment/equipment-100092/thumb2.jpg",
+        "/img/products/equipment/equipment-100092/thumb3.jpg"
+      ]
+    },
+    "price": "12823 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "112 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100093,
+    "title": "Аксессуары Elite241",
+    "category": "Аксессуары",
+    "img": {
+      "src": "/img/products/accessories/accessories-100093/main.jpg",
+      "main": [
+        "/img/products/accessories/accessories-100093/main.jpg",
+        "/img/products/accessories/accessories-100093/1.jpg",
+        "/img/products/accessories/accessories-100093/2.jpg",
+        "/img/products/accessories/accessories-100093/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/accessories/accessories-100093/thumb.jpg",
+        "/img/products/accessories/accessories-100093/thumb1.jpg",
+        "/img/products/accessories/accessories-100093/thumb2.jpg",
+        "/img/products/accessories/accessories-100093/thumb3.jpg"
+      ]
+    },
+    "price": "8739 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "8 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "115 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100094,
+    "title": "Экипировка Elite657",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100094/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100094/main.jpg",
+        "/img/products/equipment/equipment-100094/1.jpg",
+        "/img/products/equipment/equipment-100094/2.jpg",
+        "/img/products/equipment/equipment-100094/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100094/thumb.jpg",
+        "/img/products/equipment/equipment-100094/thumb1.jpg",
+        "/img/products/equipment/equipment-100094/thumb2.jpg",
+        "/img/products/equipment/equipment-100094/thumb3.jpg"
+      ]
+    },
+    "price": "14855 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Alpina"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "127 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100095,
+    "title": "Лыжи Max465",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100095/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100095/main.jpg",
+        "/img/products/skis/skis-100095/1.jpg",
+        "/img/products/skis/skis-100095/2.jpg",
+        "/img/products/skis/skis-100095/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100095/thumb.jpg",
+        "/img/products/skis/skis-100095/thumb1.jpg",
+        "/img/products/skis/skis-100095/thumb2.jpg",
+        "/img/products/skis/skis-100095/thumb3.jpg"
+      ]
+    },
+    "price": "3777 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "SnowPro"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "4 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серебристый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "147 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100096,
+    "title": "Лыжи X963",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/products/skis/skis-100096/main.jpg",
+      "main": [
+        "/img/products/skis/skis-100096/main.jpg",
+        "/img/products/skis/skis-100096/1.jpg",
+        "/img/products/skis/skis-100096/2.jpg",
+        "/img/products/skis/skis-100096/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/skis/skis-100096/thumb.jpg",
+        "/img/products/skis/skis-100096/thumb1.jpg",
+        "/img/products/skis/skis-100096/thumb2.jpg",
+        "/img/products/skis/skis-100096/thumb3.jpg"
+      ]
+    },
+    "price": "10943 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "107 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100097,
+    "title": "Сноуборды Max500",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100097/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100097/main.jpg",
+        "/img/products/snowboards/snowboards-100097/1.jpg",
+        "/img/products/snowboards/snowboards-100097/2.jpg",
+        "/img/products/snowboards/snowboards-100097/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100097/thumb.jpg",
+        "/img/products/snowboards/snowboards-100097/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100097/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100097/thumb3.jpg"
+      ]
+    },
+    "price": "22633 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "3 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Чёрный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "110 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100098,
+    "title": "Сноуборды X798",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/products/snowboards/snowboards-100098/main.jpg",
+      "main": [
+        "/img/products/snowboards/snowboards-100098/main.jpg",
+        "/img/products/snowboards/snowboards-100098/1.jpg",
+        "/img/products/snowboards/snowboards-100098/2.jpg",
+        "/img/products/snowboards/snowboards-100098/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/snowboards/snowboards-100098/thumb.jpg",
+        "/img/products/snowboards/snowboards-100098/thumb1.jpg",
+        "/img/products/snowboards/snowboards-100098/thumb2.jpg",
+        "/img/products/snowboards/snowboards-100098/thumb3.jpg"
+      ]
+    },
+    "price": "21283 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "SkiTech"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "140 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100099,
+    "title": "Экипировка X261",
+    "category": "Экипировка",
+    "img": {
+      "src": "/img/products/equipment/equipment-100099/main.jpg",
+      "main": [
+        "/img/products/equipment/equipment-100099/main.jpg",
+        "/img/products/equipment/equipment-100099/1.jpg",
+        "/img/products/equipment/equipment-100099/2.jpg",
+        "/img/products/equipment/equipment-100099/3.jpg"
+      ],
+      "thumb": [
+        "/img/products/equipment/equipment-100099/thumb.jpg",
+        "/img/products/equipment/equipment-100099/thumb1.jpg",
+        "/img/products/equipment/equipment-100099/thumb2.jpg",
+        "/img/products/equipment/equipment-100099/thumb3.jpg"
+      ]
+    },
+    "price": "21326 Р",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "FrostLine"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "114 кг"
+      }
+    ],
+    "like": false
+  }
+]

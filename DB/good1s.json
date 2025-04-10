@@ -1,0 +1,555 @@
+[
+  {
+    "id": 1,
+    "price": "1 000 Р",
+    "collection": "Modern",
+    "manufacturer": "Furnico",
+    "warannty": "2 years",
+    "life": "10 years",
+    "color": "Black",
+    "max_weigth": "120 kg",
+    "type": "Лыжи",
+    "img": "",
+    "title": ""
+  },
+  {
+    "id": 100000,
+    "title": "Лыжи BLACKOPS 118 OPEN",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100000.jpg",
+      "main": [
+        "/img/100000.jpg",
+        "/img/100000-1.jpg",
+        "/img/100000-2.jpg",
+        "/img/100000-3.jpg"
+      ],
+      "thumb": [
+        "/img/100000.jpg",
+        "/img/100000-1.jpg",
+        "/img/100000-2.jpg",
+        "/img/100000-3.jpg"
+      ]
+    },
+    "price": "94 380 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol "
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "2 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Жёлтый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "113 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100001,
+    "title": "Лыжи BELLE 73",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100001.jpg",
+      "main": [
+        "/img/100001.jpg",
+        "/img/100001-1.jpg",
+        "/img/100001-2.jpg",
+        "/img/100001-3.jpg"
+      ],
+      "thumb": [
+        "/img/100001.jpg",
+        "/img/100001-1.jpg",
+        "/img/100001-2.jpg",
+        "/img/100001-3.jpg"
+      ]
+    },
+    "price": "47 190 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "100 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100002,
+    "title": "Сноуборды PUSH UP",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/100002.jpg",
+      "main": [
+        "/img/100002.jpg",
+        "/img/100002-1.jpg",
+        "/img/100002-2.jpg",
+        "/img/100002-3.jpg",
+        "/img/100002-4.jpg",
+        "/img/100002-5.jpg"
+      ],
+      "thumb": [
+        "/img/100002.jpg",
+        "/img/100002-1.jpg",
+        "/img/100002-2.jpg",
+        "/img/100002-3.jpg",
+        "/img/100002-4.jpg",
+        "/img/100002-5.jpg"
+      ]
+    },
+    "price": "60 500 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Bataleon"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "4 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "110 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100003,
+    "title": "Лыжи FATTY",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100003.jpg",
+      "main": [
+        "/img/100003.jpg",
+        "/img/100003-1.jpg",
+        "/img/100003-2.jpg",
+        "/img/100003-3.jpg",
+        "/img/100003-4.jpg",
+        "/img/100003-5.jpg",
+        "/img/100003-6.jpg"
+      ],
+      "thumb": [
+        "/img/100003.jpg",
+        "/img/100003-1.jpg",
+        "/img/100003-2.jpg",
+        "/img/100003-3.jpg",
+        "/img/100003-4.jpg",
+        "/img/100003-5.jpg",
+        "/img/100003-6.jpg"
+      ]
+    },
+    "price": "38 610 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Crystal Clear"
+      },
+      {
+        "field": "Производитель",
+        "value": "K2"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Красный"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "142 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100004,
+    "title": "Лыжи ELITE 7 XP",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100004.jpg",
+      "main": [
+        "/img/100004.jpg",
+        "/img/100004-1.jpg",
+        "/img/100004-2.jpg",
+        "/img/100004-3.jpg"
+      ],
+      "thumb": [
+        "/img/100004.jpg",
+        "/img/100004-1.jpg",
+        "/img/100004-2.jpg",
+        "/img/100004-3.jpg"
+      ]
+    },
+    "price": "79 923 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Dynastar"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "133 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100005,
+    "title": "Лыжи M-CROSS 82 XP",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100005.jpg",
+      "main": [
+        "/img/100005.jpg",
+        "/img/100005-1.jpg"
+      ],
+      "thumb": [
+        "/img/100005.jpg",
+        "/img/100005-1.jpg"
+      ]
+    },
+    "price": "76 230 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Nord Light"
+      },
+      {
+        "field": "Производитель",
+        "value": "Dynastar "
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Зеленый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "145 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100006,
+    "title": "Лыжи TEAM J R",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100006.jpg",
+      "main": [
+        "/img/100006.jpg",
+        "/img/100006-1.jpg",
+        "/img/100006-2.jpg",
+        "/img/100006-3.jpg"
+      ],
+      "thumb": [
+        "/img/100006.jpg",
+        "/img/100006-1.jpg",
+        "/img/100006-2.jpg",
+        "/img/100006-3.jpg"
+      ]
+    },
+    "price": "27 376 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Extreme"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nordica"
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "115 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100007,
+    "title": "Сноуборды BLOW",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/100007.jpg",
+      "main": [
+        "/img/100007.jpg",
+        "/img/100007-1.jpg",
+        "/img/100007-2.jpg",
+        "/img/100007-3.jpg",
+        "/img/100007-4.jpg",
+        "/img/100007-5.jpg",
+        "/img/100007-6.jpg"
+      ],
+      "thumb": [
+        "/img/100007.jpg",
+        "/img/100007-1.jpg",
+        "/img/100007-2.jpg",
+        "/img/100007-3.jpg",
+        "/img/100007-4.jpg",
+        "/img/100007-5.jpg",
+        "/img/100007-6.jpg"
+      ]
+    },
+    "price": "52 030 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Bataleon "
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "5 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Серый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "117 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100008,
+    "title": "Сноуборд LECTRA",
+    "category": "Сноуборды",
+    "img": {
+      "src": "/img/100008.jpg",
+      "main": [
+        "/img/100008.jpg",
+        "/img/100008-1.jpg",
+        "/img/100008-2.jpg",
+        "/img/100008-3.jpg"
+      ],
+      "thumb": [
+        "/img/100008.jpg",
+        "/img/100008-1.jpg",
+        "/img/100008-2.jpg",
+        "/img/100008-3.jpg"
+      ]
+    },
+    "price": "48 400 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Safety First"
+      },
+      {
+        "field": "Производитель",
+        "value": "Nitro "
+      },
+      {
+        "field": "Гарантия",
+        "value": "2 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "7 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Темно-синий"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "139 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100009,
+    "title": "Лыжи ELITE 5 XP",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100009.jpg",
+      "main": [
+        "/img/100009.jpg",
+        "/img/100009-1.jpg",
+        "/img/100009-2.jpg",
+        "/img/100009-3.jpg"
+      ],
+      "thumb": [
+        "/img/100009.jpg",
+        "/img/100009-1.jpg",
+        "/img/100009-2.jpg",
+        "/img/100009-3.jpg"
+      ]
+    },
+    "price": "69 025 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Arctic Series"
+      },
+      {
+        "field": "Производитель",
+        "value": "Dynastar"
+      },
+      {
+        "field": "Гарантия",
+        "value": "1 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "10 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Голубой"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "134 кг"
+      }
+    ],
+    "like": false
+  },
+  {
+    "id": 100010,
+    "title": "Лыжи FORZA 20 V-FG",
+    "category": "Лыжи",
+    "img": {
+      "src": "/img/100010.jpg",
+      "main": [
+        "/img/100010.jpg",
+        "/img/100010-1.jpg",
+        "/img/100010-2.jpg",
+        "/img/100010-3.jpg"
+      ],
+      "thumb": [
+        "/img/100010.jpg",
+        "/img/100010-1.jpg",
+        "/img/100010-2.jpg",
+        "/img/100010-3.jpg"
+      ]
+    },
+    "price": "48 400 ₽",
+    "characteristics": [
+      {
+        "field": "Коллекция",
+        "value": "Alpine Pro"
+      },
+      {
+        "field": "Производитель",
+        "value": "Rossignol"
+      },
+      {
+        "field": "Гарантия",
+        "value": "3 года"
+      },
+      {
+        "field": "Срок службы",
+        "value": "6 лет"
+      },
+      {
+        "field": "Цвет",
+        "value": "Белый"
+      },
+      {
+        "field": "Макс. нагрузка",
+        "value": "101 кг"
+      }
+    ],
+    "like": false
+  }
+]
