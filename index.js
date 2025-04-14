@@ -3,6 +3,7 @@ import { PORT } from "./var.js";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import url from "node:url";
+import { category } from "./scripts/service.js";
 
 const __filename = url.fileURLToPath(import.meta.url);
 export const __dirname = path.dirname(__filename);
@@ -83,29 +84,34 @@ app.get("/goods", async (req, res) => {
   try {
     const data = await sendData();
     res.header("Access-Control-Allow-Origin", "*");
-    res.json(data);
+    const categories = category(data);
+
+    return res.json({ data, categories });
   } catch (error) {
     res.send("Error data");
   }
 });
 
-app.get("/category", async (req, res) => {
-  try {
-    const data = await sendData();
+// app.get("/category", async (req, res) => {
+//   try {
+//     const data = await sendData();
 
-    const categoryList = [
-      ...new Set(data.map((item) => item.category.rus)),
-    ].sort((a, b) => (a > b ? 1 : -1));
-    categoryList.unshift("Все");
-    res.json(categoryList);
-  } catch (error) {
-    res.status(500).json({ error: "Failed to load product" });
-  }
-});
+//     const categoryList = [
+//       ...new Set(data.map((item) => item.category.rus)),
+//     ].sort((a, b) => (a > b ? 1 : -1));
+//     categoryList.unshift("Все");
+//     res.json(categoryList);
+//   } catch (error) {
+//     res.status(500).json({ error: "Failed to load product" });
+//   }
+// });
 
 app.get("/goods/:category", async (req, res) => {
   try {
     const data = await sendData();
+    res.header("Access-Control-Allow-Origin", "*");
+
+    const categories = category(data);
 
     const products = data.filter((item) => {
       return (
@@ -115,7 +121,7 @@ app.get("/goods/:category", async (req, res) => {
           req.params.category.trim().toLowerCase()
       );
     });
-    res.json(products);
+    res.json({products, categories});
   } catch (error) {
     res.status(500).json({ error: "Failed to load product" });
   }
