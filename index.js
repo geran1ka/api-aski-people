@@ -84,34 +84,28 @@ app.get("/goods", async (req, res) => {
   try {
     const data = await sendData();
     res.header("Access-Control-Allow-Origin", "*");
-    const categories = category(data);
-
-    return res.json({ data, categories });
+    return res.json(data);
   } catch (error) {
     res.send("Error data");
   }
 });
 
-// app.get("/category", async (req, res) => {
-//   try {
-//     const data = await sendData();
-
-//     const categoryList = [
-//       ...new Set(data.map((item) => item.category.rus)),
-//     ].sort((a, b) => (a > b ? 1 : -1));
-//     categoryList.unshift("Все");
-//     res.json(categoryList);
-//   } catch (error) {
-//     res.status(500).json({ error: "Failed to load product" });
-//   }
-// });
-
-app.get("/goods/:category", async (req, res) => {
+app.get("/category", async (req, res) => {
   try {
     const data = await sendData();
     res.header("Access-Control-Allow-Origin", "*");
 
     const categories = category(data);
+    res.json(categories);
+  } catch (error) {
+    res.status(500).json({ error: "Failed to load category" });
+  }
+});
+
+app.get("/goods/:category", async (req, res) => {
+  try {
+    const data = await sendData();
+    res.header("Access-Control-Allow-Origin", "*");
 
     const products = data.filter((item) => {
       return (
@@ -121,16 +115,17 @@ app.get("/goods/:category", async (req, res) => {
           req.params.category.trim().toLowerCase()
       );
     });
-    res.json({products, categories});
+    res.json(products);
   } catch (error) {
     res.status(500).json({ error: "Failed to load product" });
   }
 });
 
-app.get("/goods/product/:id", async (req, res) => {
+app.get("/product/:id", async (req, res) => {
   try {
     const data = await sendData();
-    console.log(req.params.id, typeof req.params.id);
+    res.header("Access-Control-Allow-Origin", "*");
+
     const product = data.find((item) => item.id === parseInt(req.params.id));
     if (product) {
       res.json(product);
@@ -160,7 +155,7 @@ app.get("/search", async (req, res) => {
   }
 });
 
-app.post("/api/orders", async (req, res) => {
+app.post("/orders", async (req, res) => {
   const { products, storeId } = req.body;
 
   if (!products || !Array.isArray(products) || !storeId) {
