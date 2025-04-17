@@ -32,53 +32,53 @@ const sendData = async () => {
   }
 };
 
-export const loadOrders = async () => {
-  try {
-    const data = await readFile(path.join(__dirname, "DB/orders.json"), "utf8");
-    return JSON.parse(data);
-  } catch (err) {
-    console.error("Failed to read orders file:", err);
-    return [];
-  }
-};
+// export const loadOrders = async () => {
+//   try {
+//     const data = await readFile(path.join(__dirname, "DB/orders.json"), "utf8");
+//     return JSON.parse(data);
+//   } catch (err) {
+//     console.error("Failed to read orders file:", err);
+//     return [];
+//   }
+// };
 
-export const saveOrders = async (orders) => {
-  try {
-    await writeFile(
-      path.join(__dirname, "DB/orders.json"),
-      JSON.stringify(orders, null, 2),
-      "utf8"
-    );
-    return true;
-  } catch (err) {
-    console.error("Failed to write to orders file:", err);
-    return false;
-  }
-};
+// export const saveOrders = async (orders) => {
+//   try {
+//     await writeFile(
+//       path.join(__dirname, "DB/orders.json"),
+//       JSON.stringify(orders, null, 2),
+//       "utf8"
+//     );
+//     return true;
+//   } catch (err) {
+//     console.error("Failed to write to orders file:", err);
+//     return false;
+//   }
+// };
 
-export const loadCart = async () => {
-  try {
-    const data = await readFile(path.join(__dirname, "DB/cart.json"), "utf8");
-    return JSON.parse(data);
-  } catch (err) {
-    console.error("Failed to read orders file:", err);
-    return [];
-  }
-};
+// export const loadCart = async () => {
+//   try {
+//     const data = await readFile(path.join(__dirname, "DB/cart.json"), "utf8");
+//     return JSON.parse(data);
+//   } catch (err) {
+//     console.error("Failed to read orders file:", err);
+//     return [];
+//   }
+// };
 
-export const saveCart = async (cart) => {
-  try {
-    await writeFile(
-      path.join(__dirname, "DB/cart.json"),
-      JSON.stringify(cart, null, 2),
-      "utf8"
-    );
-    return true;
-  } catch (err) {
-    console.error("Failed to write to orders file:", err);
-    return false;
-  }
-};
+// export const saveCart = async (cart) => {
+//   try {
+//     await writeFile(
+//       path.join(__dirname, "DB/cart.json"),
+//       JSON.stringify(cart, null, 2),
+//       "utf8"
+//     );
+//     return true;
+//   } catch (err) {
+//     console.error("Failed to write to orders file:", err);
+//     return false;
+//   }
+// };
 
 app.get("/goods", async (req, res) => {
   try {
@@ -140,15 +140,24 @@ app.get("/product/:id", async (req, res) => {
 app.get("/search", async (req, res) => {
   try {
     const data = await sendData();
+    res.header("Access-Control-Allow-Origin", "*");
+
     const { query, search } = req.query;
+    console.log("query: ", query);
+    console.log("search: ", search);
     const searchQuery = `${query || search}`.trim().toLowerCase();
 
     const products = data.filter((item) => {
+
       return (
         item.title.toLowerCase().includes(searchQuery) ||
-        item.category.rus.toLowerCase().includes(searchQuery)
+        item.category.rus.toLowerCase().includes(searchQuery) ||
+        item.characteristics.find((item) =>
+          item.value.trim().toLowerCase().includes(search.trim().toLowerCase()))
       );
     });
+    console.log("products: ", products);
+
     res.json(products);
   } catch (error) {
     res.send("Error search");
