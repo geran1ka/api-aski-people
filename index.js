@@ -3,7 +3,7 @@ import { PORT } from "./var.js";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import url from "node:url";
-import { category } from "./scripts/service.js";
+import { category, getGoodsList, getQueryParams } from "./scripts/service.js";
 
 const __filename = url.fileURLToPath(import.meta.url);
 export const __dirname = path.dirname(__filename);
@@ -80,11 +80,14 @@ const sendData = async () => {
 //   }
 // };
 
-app.get("/goods", async (req, res) => {
+app.get("/", async (req, res) => {
   try {
     const data = await sendData();
     res.header("Access-Control-Allow-Origin", "*");
-    return res.json(data);
+    const queryParams = getQueryParams(req);
+    const products = getGoodsList(data, queryParams);
+
+    return res.json(products);
   } catch (error) {
     res.send("Error data");
   }
@@ -106,16 +109,9 @@ app.get("/goods/:category", async (req, res) => {
   try {
     const data = await sendData();
     res.header("Access-Control-Allow-Origin", "*");
-
-    const products = data.filter((item) => {
-      return (
-        item.category.eng.trim().toLowerCase() ===
-          req.params.category.trim().toLowerCase() ||
-        item.category.rus.trim().toLowerCase() ===
-          req.params.category.trim().toLowerCase()
-      );
-    });
-    res.json(products);
+    const queryParams = getQueryParams(req);
+    const products = getGoodsList(data, queryParams);
+    return res.json(products);
   } catch (error) {
     res.status(500).json({ error: "Failed to load product" });
   }
@@ -141,24 +137,23 @@ app.get("/search", async (req, res) => {
   try {
     const data = await sendData();
     res.header("Access-Control-Allow-Origin", "*");
+    const queryParams = getQueryParams(req);
+    const products = getGoodsList(data, queryParams);
 
-    const { query, search } = req.query;
-    console.log("query: ", query);
-    console.log("search: ", search);
-    const searchQuery = `${query || search}`.trim().toLowerCase();
+    return res.json(products);
+  } catch (error) {
+    res.send("Error search");
+  }
+});
 
-    const products = data.filter((item) => {
+app.get("/favorite", async (req, res) => {
+  try { 
+    const data = await sendData();
+    res.header("Access-Control-Allow-Origin", "*");
+    const queryParams = getQueryParams(req);
+    const products = getGoodsList(data, queryParams);
 
-      return (
-        item.title.toLowerCase().includes(searchQuery) ||
-        item.category.rus.toLowerCase().includes(searchQuery) ||
-        item.characteristics.find((item) =>
-          item.value.trim().toLowerCase().includes(search.trim().toLowerCase()))
-      );
-    });
-    console.log("products: ", products);
-
-    res.json(products);
+    return res.json(products);
   } catch (error) {
     res.send("Error search");
   }
